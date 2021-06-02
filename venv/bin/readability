@@ -1,3 +1,0 @@
-#!/home/altair/PycharmProjects/python for nlp_book/venv/bin/python
-import readability
-readability.main()
