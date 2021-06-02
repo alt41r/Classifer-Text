@@ -1,0 +1,32 @@
+Baleen RSS Export
+=================
+
+Exported on: May 25, 2016 at 13:26
+373 feeds containing 24,867 posts in 12 categories for 2.3GiB (516M compressed).
+
+Category Counts
+---------------
+
+- books: 712 (42.5MiB)
+- business: 3725 (375.0MiB)
+- cinema: 1074 (93.7MiB)
+- cooking: 322 (29.6MiB)
+- data_science: 364 (14.9MiB)
+- design: 484 (33.0MiB)
+- do_it_yourself: 1265 (85.4MiB)
+- gaming: 1075 (77.3MiB)
+- news: 11624 (1.2GiB)
+- politics: 1456 (133.3MiB)
+- sports: 1104 (154.4MiB)
+- tech: 1662 (136.7MiB)
+
+Baleen corpus contains 24867 files in 12 categories.
+Structured as:
+    423308 paragraphs (17.023 mean paragraphs per file)
+    734011 sentences (1.734 mean sentences per paragraph).
+Word count of 15987561 with a vocabulary of 177430 (90.106 lexical diversity).
+Corpus scan took 986.645 seconds.
+
+Preprocessing took 33m35.718s
+
+Corpus scan of preprocessed, pickled corpus took 34.567 seconds.

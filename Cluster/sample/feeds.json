@@ -1,0 +1,3359 @@
+[
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b7b"
+    }, 
+    "link": "http://feeds.politico.com/politico/rss/politicopicks", 
+    "title": "POLITICO - TOP Stories"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b7c"
+    }, 
+    "link": "http://online.wsj.com/xml/rss/3_7011.xml", 
+    "title": "WSJ.com: What's News US"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b7d"
+    }, 
+    "link": "http://feeds.foxnews.com/foxnews/scitech", 
+    "title": "FOX News"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b7f"
+    }, 
+    "link": "http://feeds.feedburner.com/TheAtlantic", 
+    "title": "The Atlantic"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b81"
+    }, 
+    "link": "http://feeds.slate.com/slate", 
+    "title": "Slate Articles"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c99d"
+    }, 
+    "link": "http://www.inc.com/rss.xml", 
+    "title": "Inc.com"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b7e"
+    }, 
+    "link": "http://rss.cnn.com/rss/cnn_topstories.rss", 
+    "title": "CNN.com - Top Stories"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b80"
+    }, 
+    "link": "http://feeds.feedburner.com/time/topstories", 
+    "title": "TIME"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b82"
+    }, 
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", 
+    "title": "NYT > Home Page"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b83"
+    }, 
+    "link": "http://america.aljazeera.com/content/ajam/articles.rss", 
+    "title": "Al Jazeera America"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b84"
+    }, 
+    "link": "https://news.google.com/?output=rss", 
+    "title": "Top Stories - Google News"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b85"
+    }, 
+    "link": "http://www.latimes.com/rss2.0.xml", 
+    "title": "latimes.com - Los Angeles Times"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b86"
+    }, 
+    "link": "http://news.yahoo.com/rss/topstories", 
+    "title": "Yahoo News - Top Stories"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b87"
+    }, 
+    "link": "http://feeds.washingtonpost.com/rss/homepage", 
+    "title": "Washington Post: Breaking News, World, US, DC News & Analysis"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b88"
+    }, 
+    "link": "http://www.theguardian.com/uk/rss", 
+    "title": "The Guardian"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b89"
+    }, 
+    "link": "http://www.vox.com/rss/index.xml", 
+    "title": "Vox -  All"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b8a"
+    }, 
+    "link": "http://feeds.bbci.co.uk/news/world/rss.xml", 
+    "title": "BBC News - World"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b8b"
+    }, 
+    "link": "http://feeds.feedburner.com/DrudgeReportFeed", 
+    "title": "Drudge Report Feed"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b8c"
+    }, 
+    "link": "http://qz.com/feed/", 
+    "title": "Quartz"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b8d"
+    }, 
+    "link": "http://feeds.huffingtonpost.com/huffingtonpost/raw_feed", 
+    "title": "The Huffington Post | The Full Feed"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b8e"
+    }, 
+    "link": "http://rss.cnn.com/rss/cnn_world.rss", 
+    "title": "CNN.com - World"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b8f"
+    }, 
+    "link": "http://www.vice.com/rss", 
+    "title": "VICE"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b90"
+    }, 
+    "link": "http://feeds.gothamistllc.com/gothamist05", 
+    "title": "Gothamist"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b91"
+    }, 
+    "link": "http://timesofindia.indiatimes.com/rssfeedsdefault.cms", 
+    "title": "The Times of India"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b92"
+    }, 
+    "link": "https://news.google.com/news?hl=en&gl=us&q=news&um=1&ie=UTF-8&output=rss", 
+    "title": "news - Google News"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b93"
+    }, 
+    "link": "http://feeds.huffingtonpost.com/huffingtonpost/LatestNews", 
+    "title": "The Huffington Post"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b94"
+    }, 
+    "link": "http://feeds.marketwatch.com/marketwatch/topstories/", 
+    "title": "MarketWatch.com - Top Stories"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b95"
+    }, 
+    "link": "http://feeds.abcnews.com/abcnews/topstories", 
+    "title": "ABC News: Top Stories"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b96"
+    }, 
+    "link": "http://feeds.bbci.co.uk/news/rss.xml?edition=int", 
+    "title": "BBC News - Home"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b97"
+    }, 
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/World.xml", 
+    "title": "NYT > World"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b98"
+    }, 
+    "link": "http://rssfeeds.usatoday.com/usatoday-NewsTopStories", 
+    "title": "USATODAY - News Top Stories"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b99"
+    }, 
+    "link": "http://www.npr.org/rss/rss.php?id=1001", 
+    "title": "News : NPR"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b9a"
+    }, 
+    "link": "http://feeds.reuters.com/reuters/topNews?irpc=69", 
+    "title": "Reuters: Top News"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52ba5"
+    }, 
+    "link": "http://makezine.com/index.xml", 
+    "title": "Make"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b9b"
+    }, 
+    "link": "http://salon.com.feedsportal.com/c/35105/f/648624/index.rss", 
+    "title": "Salon.com"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b9c"
+    }, 
+    "link": "http://www.newyorker.com/feed/everything", 
+    "title": "The New Yorker: Everything"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b9d"
+    }, 
+    "link": "http://www.theguardian.com/us-news/rss", 
+    "title": "US news | The Guardian"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b9e"
+    }, 
+    "link": "https://blog.adafruit.com/feed/", 
+    "title": "Adafruit Industries \u2013 Makers, hackers, artists, designers and engineers!"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52b9f"
+    }, 
+    "link": "http://makezine.com/giftguide/craft/", 
+    "title": "Craft"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52ba0"
+    }, 
+    "link": "http://ikeahacker.blogspot.com/feeds/posts/default", 
+    "title": "IKEA Hackers"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52ba1"
+    }, 
+    "link": "http://feeds.feedburner.com/APairAndASpareDiyFashion", 
+    "title": "a pair & a spare"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52ba2"
+    }, 
+    "link": "http://hackaday.com/feed/", 
+    "title": "Hackaday"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52ba3"
+    }, 
+    "link": "http://www.instructables.com/tag/type-id/rss.xml", 
+    "title": "Instructables: exploring"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52ba4"
+    }, 
+    "link": "http://www.wikihow.com/feed.rss", 
+    "title": "How to of the Day"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52ba6"
+    }, 
+    "link": "https://blog.etsy.com/en/feeds/latest/feed/atom/", 
+    "title": "The Etsy Blog"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52ba7"
+    }, 
+    "link": "http://feeds.feedburner.com/AtlanticBusinessChannel", 
+    "title": "Business | The Atlantic"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52ba8"
+    }, 
+    "link": "http://feeds.feedburner.com/entrepreneur/latest", 
+    "title": "Entrepreneur"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52baa"
+    }, 
+    "link": "http://feeds.harvardbusiness.org/harvardbusiness/", 
+    "title": "HBR.org"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bab"
+    }, 
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Business.xml", 
+    "title": "NYT > Business Day"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bac"
+    }, 
+    "link": "http://freakonomics.com//feed/", 
+    "title": "Freakonomics"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bad"
+    }, 
+    "link": "http://www.businessoffashion.com/syndication/feed", 
+    "title": "The Business of Fashion"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bae"
+    }, 
+    "link": "http://feeds.feedburner.com/TheBigPicture", 
+    "title": "The Big Picture"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52baf"
+    }, 
+    "link": "http://feeds.feedburner.com/venturebeat", 
+    "title": "VentureBeat"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bb0"
+    }, 
+    "link": "http://feeds2.feedburner.com/businessinsider", 
+    "title": "Feedburner"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bb1"
+    }, 
+    "link": "http://feeds.feedburner.com/CalculatedRisk", 
+    "title": "Calculated Risk"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bb2"
+    }, 
+    "link": "http://feeds.inc.com/home/updates", 
+    "title": "Inc.com"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bb3"
+    }, 
+    "link": "http://andrewchen.co/feed/", 
+    "title": "andrewchen"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bb4"
+    }, 
+    "link": "http://www.gameinformer.com/b/mainfeed.aspx?Tags=news", 
+    "title": "www.GameInformer.com"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bb5"
+    }, 
+    "link": "http://www.gamespot.com/feeds/mashup/", 
+    "title": "GameSpot"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bb6"
+    }, 
+    "link": "http://toucharcade.com/feed/", 
+    "title": "TouchArcade"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bd9"
+    }, 
+    "link": "http://feeds.newyorker.com/services/rss/feeds/reporting.xml", 
+    "title": "Reporting & Essays"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52be7"
+    }, 
+    "link": "http://theultralinx.com/category/technology/feed", 
+    "title": "UltraLinx Technology"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52ba9"
+    }, 
+    "link": "http://www.bloomberg.com/", 
+    "title": "Businessweek.com -- Top News"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bb7"
+    }, 
+    "link": "http://www.nintendolife.com/feeds/latest", 
+    "title": "Nintendo Life | Latest Updates"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bb8"
+    }, 
+    "link": "http://feeds.feedburner.com/GamasutraFeatureArticles/", 
+    "title": "Gamasutra News"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bb9"
+    }, 
+    "link": "http://feeds.feedburner.com/sceeblog", 
+    "title": "PlayStation.Blog.Europe"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bba"
+    }, 
+    "link": "http://feeds.gawker.com/kotaku/vip", 
+    "title": "Kotaku"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bbb"
+    }, 
+    "link": "http://feeds.feedburner.com/PSBlog", 
+    "title": "PlayStation.Blog"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bbc"
+    }, 
+    "link": "http://feeds.feedburner.com/MajorNelson", 
+    "title": "Xbox Live's Major Nelson"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bbd"
+    }, 
+    "link": "https://tagn.wordpress.com/feed/", 
+    "title": "The Ancient Gaming Noob"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bbe"
+    }, 
+    "link": "http://www.pcgamer.com/feed/", 
+    "title": "PC Gamer latest stories"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bbf"
+    }, 
+    "link": "http://www.eurogamer.net/?format=rss", 
+    "title": "Eurogamer.net"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bc0"
+    }, 
+    "link": "http://www.polygon.com/rss/index.xml", 
+    "title": "Polygon -  All"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bc1"
+    }, 
+    "link": "http://feeds.arstechnica.com/arstechnica/gaming/", 
+    "title": "Opposable Thumbs \u2013 Ars Technica"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bc2"
+    }, 
+    "link": "http://store.steampowered.com/feeds/news.xml", 
+    "title": "Steam RSS News Feed"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bc3"
+    }, 
+    "link": "http://www.indiegames.com/atom.xml", 
+    "title": "IndieGames.com"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bc4"
+    }, 
+    "link": "http://www.engadget.com/gaming/", 
+    "title": "Joystiq"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bc5"
+    }, 
+    "link": "http://feeds.feedburner.com/dataminingblog", 
+    "title": "Data Mining Research"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bc6"
+    }, 
+    "link": "http://feeds.feedburner.com/GeekingWithGreg", 
+    "title": "Geeking with Greg"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bc7"
+    }, 
+    "link": "http://blog.kaggle.com/feed/", 
+    "title": "No Free Hunch"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bc8"
+    }, 
+    "link": "http://feeds.feedburner.com/kdnuggets-data-mining-analytics", 
+    "title": "KDnuggets"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bc9"
+    }, 
+    "link": "http://junkcharts.typepad.com/numbersruleyourworld/atom.xml", 
+    "title": "Big Data, Plainly Spoken (aka Numbers Rule Your World)"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bca"
+    }, 
+    "link": "http://www.theguardian.com/news/datablog/rss", 
+    "title": "Datablog | The Guardian"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bcb"
+    }, 
+    "link": "http://www.datatau.com/rss", 
+    "title": "DataTau"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bcc"
+    }, 
+    "link": "http://blogs.wsj.com/numbers/feed/", 
+    "title": "The Numbers"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bcd"
+    }, 
+    "link": "http://simplystatistics.org/feed/", 
+    "title": "Simply Statistics"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bce"
+    }, 
+    "link": "http://blog.revolutionanalytics.com/atom.xml", 
+    "title": "Revolutions"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bcf"
+    }, 
+    "link": "http://feeds.feedburner.com/RBloggers", 
+    "title": "R-bloggers"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bd0"
+    }, 
+    "link": "https://mathbabe.org/feed/", 
+    "title": "mathbabe"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bd1"
+    }, 
+    "link": "http://fastml.com/atom.xml", 
+    "title": "FastML"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bd2"
+    }, 
+    "link": "http://feeds.feedburner.com/StatisticalModeling", 
+    "title": "Statistical Modeling, Causal Inference, and Social Science"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bd3"
+    }, 
+    "link": "http://feeds.feedburner.com/smartdatacollective_allposts", 
+    "title": "SmartData Collective - The World's Best Thinkers on Data"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bd4"
+    }, 
+    "link": "http://feeds.feedburner.com/theendeavour", 
+    "title": "John D. Cook"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bd5"
+    }, 
+    "link": "http://hunch.net/?feed=rss2", 
+    "title": "Machine Learning (Theory)"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bd6"
+    }, 
+    "link": "http://101.datascience.community/feed/", 
+    "title": "Data Science 101"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bd7"
+    }, 
+    "link": "http://fivethirtyeight.com/feed/", 
+    "title": "FiveThirtyEight"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bd8"
+    }, 
+    "link": "http://feeds.feedburner.com/blogspot/wCeDd", 
+    "title": "Nuit Blanche"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bda"
+    }, 
+    "link": "http://tetw.org/rss#_=_", 
+    "title": "The Electric Typewriter"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bdb"
+    }, 
+    "link": "http://essayist.tumblr.com/rss", 
+    "title": "The Essayist"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bdc"
+    }, 
+    "link": "http://feeds.slate.com/slate-101526", 
+    "title": "Slate Articles"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bdd"
+    }, 
+    "link": "http://feeds.feedburner.com/Motherjones/mojoblog", 
+    "title": "Political Mojo | Mother Jones"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bde"
+    }, 
+    "link": "http://www.worldaffairsjournal.org/essay-feed.xml", 
+    "title": "World Affairs Journal - Essays"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bdf"
+    }, 
+    "link": "http://dailysignal.com//feed/", 
+    "title": "The Daily Signal"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52be0"
+    }, 
+    "link": "http://thinkprogress.org/feed/", 
+    "title": "ThinkProgressPage Array \u2013 ThinkProgress"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52be1"
+    }, 
+    "link": "http://feeds.arstechnica.com/arstechnica/index/", 
+    "title": "Ars Technica"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52be2"
+    }, 
+    "link": "http://feeds.gawker.com/gizmodo/full", 
+    "title": "Gizmodo"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52be3"
+    }, 
+    "link": "http://brb.yahoo.com/", 
+    "title": "Yahoo Tech"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52be4"
+    }, 
+    "link": "http://gigaom.com/feed/", 
+    "title": "Gigaom"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52be6"
+    }, 
+    "link": "http://scobleizer.com/feed/", 
+    "title": "Scobleizer"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52be8"
+    }, 
+    "link": "http://feeds.feedburner.com/oreilly/radar/atom", 
+    "title": "All - O'Reilly Media"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52be9"
+    }, 
+    "link": "https://googleblog.blogspot.com/atom.xml", 
+    "title": "Official Google Blog"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bea"
+    }, 
+    "link": "http://feeds.mashable.com/Mashable", 
+    "title": "Mashable"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52beb"
+    }, 
+    "link": "http://feeds.feedburner.com/Techcrunch", 
+    "title": "TechCrunch"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bec"
+    }, 
+    "link": "http://www.theverge.com/rss/full.xml", 
+    "title": "The Verge -  All Posts"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bed"
+    }, 
+    "link": "http://feeds.gawker.com/lifehacker/vip", 
+    "title": "Lifehacker"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bee"
+    }, 
+    "link": "http://www.wired.com/feed", 
+    "title": "WIRED"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bef"
+    }, 
+    "link": "http://www.engadget.com/rss-full.xml", 
+    "title": "Engadget RSS Feed"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bf0"
+    }, 
+    "link": "http://feeds.feedburner.com/readwriteweb", 
+    "title": "ReadWrite"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bf1"
+    }, 
+    "link": "http://www.firstshowing.net/feed/?full", 
+    "title": "FirstShowing.net"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bf2"
+    }, 
+    "link": "http://deadline.com/feed/", 
+    "title": "Deadline"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bf3"
+    }, 
+    "link": "http://variety.com/rss.asp?categoryid=10", 
+    "title": "Variety"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bf4"
+    }, 
+    "link": "http://feeds.feedburner.com/slashfilm", 
+    "title": "/Film"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bf5"
+    }, 
+    "link": "http://www.moviefone.com/rss.xml", 
+    "title": "Moviefone News RSS Feed - Moviefone.com"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bf6"
+    }, 
+    "link": "http://entertainmentweekly.tumblr.com/rss", 
+    "title": "Entertainment Weekly"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bf7"
+    }, 
+    "link": "http://rss.feedsportal.com/c/592/f/7507/index.rss", 
+    "title": "Empire News"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bf8"
+    }, 
+    "link": "http://feeds.feedburner.com/FilmSchoolRejects", 
+    "title": "Film School Rejects \u2014 Medium"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bf9"
+    }, 
+    "link": "http://www.indiewire.com/rss/rssFeed.jsp?id=c1c2a9e0-e876-11e0-99d1-12313931436e", 
+    "title": "News"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bfa"
+    }, 
+    "link": "http://www.aintitcool.com/node/feed", 
+    "title": "Ain't It Cool News Feed"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bfb"
+    }, 
+    "link": "http://feeds.feedburner.com/thr/news", 
+    "title": "Hollywood Reporter"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bfc"
+    }, 
+    "link": "https://mubi.com/notebook/posts.atom", 
+    "title": "The Daily Notebook"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bfd"
+    }, 
+    "link": "http://screencrave.com/feed/", 
+    "title": "ScreenCrave.com"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bfe"
+    }, 
+    "link": "https://lareviewofbooks.org/feed/", 
+    "title": "Los Angeles Review of Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52bff"
+    }, 
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Books.xml", 
+    "title": "NYT > Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c00"
+    }, 
+    "link": "http://cdn.lrb.co.uk/feeds/lrb", 
+    "title": "London Review of Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c01"
+    }, 
+    "link": "http://therumpus.net/feed/", 
+    "title": "The Rumpus.net"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c02"
+    }, 
+    "link": "http://granta.com/feed/", 
+    "title": "Granta Magazine"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c03"
+    }, 
+    "link": "http://whatever.scalzi.com/feed/", 
+    "title": "Whatever"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c04"
+    }, 
+    "link": "http://50watts.com/rss", 
+    "title": "50 Watts"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c05"
+    }, 
+    "link": "http://feeds.feedburner.com/themillionsblog/fedw", 
+    "title": "The Millions"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c06"
+    }, 
+    "link": "http://www.goodreads.com/blog/list_rss.xml", 
+    "title": "Goodreads Blog"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c07"
+    }, 
+    "link": "http://www.theparisreview.org/blog/feed/", 
+    "title": "The Paris Review"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c08"
+    }, 
+    "link": "http://www.omnivoracious.com/atom.xml", 
+    "title": "Omnivoracious - The Amazon Book Review"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c09"
+    }, 
+    "link": "http://www.newyorker.com/feed/books", 
+    "title": "The New Yorker: Books & Fiction"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c0a"
+    }, 
+    "link": "http://www.npr.org/rss/rss.php?id=1032", 
+    "title": "Books : NPR"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c0b"
+    }, 
+    "link": "http://www.adweek.com/galleycat/feed?red=as", 
+    "title": "GalleyCat"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c0c"
+    }, 
+    "link": "http://feeds.feedburner.com/bookriot/WlRy", 
+    "title": "BOOK RIOT"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c0d"
+    }, 
+    "link": "http://feeds.bbci.co.uk/sport/0/rss.xml?edition=int", 
+    "title": "BBC Sport - Sport"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c0e"
+    }, 
+    "link": "https://westhesportsguy.com/feed/", 
+    "title": "Wes The Sports Guy"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c0f"
+    }, 
+    "link": "http://feeds.feedburner.com/Grantland", 
+    "title": "Artifacting"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c10"
+    }, 
+    "link": "http://espn.go.com/espn/rss/news", 
+    "title": "ESPN.com - TOP"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c11"
+    }, 
+    "link": "http://www.nba.com/rss/nba_rss.xml", 
+    "title": "NBA.com: News"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c12"
+    }, 
+    "link": "http://feeds.gawker.com/deadspin/vip", 
+    "title": "Deadspin"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c13"
+    }, 
+    "link": "http://www.nfl.com/rss/rsslanding?searchString=home", 
+    "title": "NFL.com"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c14"
+    }, 
+    "link": "http://news.yahoo.com/rss/sports", 
+    "title": "Sports News Headlines - Yahoo! News"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c15"
+    }, 
+    "link": "http://bleacherreport.com/articles/feed", 
+    "title": "Bleacher Report - Front Page"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c16"
+    }, 
+    "link": "https://www.theguardian.com/football/rss", 
+    "title": "Football | The Guardian"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c17"
+    }, 
+    "link": "http://www.loveandoliveoil.com/feed", 
+    "title": "Love and Olive Oil"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c18"
+    }, 
+    "link": "http://www.howsweeteats.com/feed/", 
+    "title": "How Sweet It Is"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c19"
+    }, 
+    "link": "http://feeds.feedburner.com/CookieAndKate", 
+    "title": "Cookie and Kate"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c1a"
+    }, 
+    "link": "http://feeds.feedburner.com/ACoupleCooks", 
+    "title": "A Couple Cooks"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c1b"
+    }, 
+    "link": "http://www.shutterbean.com/feed/", 
+    "title": "Shutterbean"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c1c"
+    }, 
+    "link": "http://feeds.feedburner.com/apartmenttherapy/thekitchn", 
+    "title": "The Kitchn | Inspiring cooks, nourishing homes"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c1d"
+    }, 
+    "link": "http://www.davidlebovitz.com/feed/", 
+    "title": "David Lebovitz"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c1e"
+    }, 
+    "link": "http://feeds.feedblitz.com/delicieux", 
+    "title": "Delicious Everyday"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c1f"
+    }, 
+    "link": "https://bittersweetblog.com/feed/", 
+    "title": "BitterSweet"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c20"
+    }, 
+    "link": "http://bakingbites.com/feed/", 
+    "title": "Baking Bites"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c21"
+    }, 
+    "link": "http://feeds.feedburner.com/My-New-Roots", 
+    "title": "My New Roots"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c22"
+    }, 
+    "link": "http://feeds.feedburner.com/food52-TheAandMBlog", 
+    "title": "Food52"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c23"
+    }, 
+    "link": "http://host389.hostmonster.com/suspended.page/disabled.cgi/loveandlemons.com", 
+    "title": "Love and Lemons"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c24"
+    }, 
+    "link": "http://joythebaker.com/feed/", 
+    "title": "Joy the Baker"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c25"
+    }, 
+    "link": "http://chocolateandzucchini.com/feed/rdf/", 
+    "title": "Chocolate & Zucchini"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c26"
+    }, 
+    "link": "http://www.dinneralovestory.com/feed/", 
+    "title": "Dinner: A Love Story"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c27"
+    }, 
+    "link": "http://feeds2.feedburner.com/SproutedKitchen", 
+    "title": "Sprouted Kitchen"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c28"
+    }, 
+    "link": "http://feeds.feedburner.com/smittenkitchen", 
+    "title": "smitten kitchen"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c29"
+    }, 
+    "link": "http://feeds.feedburner.com/TheFirstMess", 
+    "title": "The First Mess // Plant-Based Recipes + Photography by Laura Wright"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c2a"
+    }, 
+    "link": "http://mynameisyeh.com/mynameisyeh?format=rss", 
+    "title": "molly yeh"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c2b"
+    }, 
+    "link": "http://feeds.feedburner.com/weightwatcherspointsrecipes", 
+    "title": "Skinnytaste"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c2c"
+    }, 
+    "link": "http://feeds.feedburner.com/NaturallyElla", 
+    "title": "Naturally Ella"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c2d"
+    }, 
+    "link": "http://www.greenkitchenstories.com/feed/", 
+    "title": "Green Kitchen Stories"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c2e"
+    }, 
+    "link": "http://feeds.101cookbooks.com/101cookbooks", 
+    "title": "101 Cookbooks"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c2f"
+    }, 
+    "link": "http://www.saveur.com/rss_newrecipes.jsp", 
+    "title": "Saveur"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c30"
+    }, 
+    "link": "http://ourbestbites.com/feeds/posts/default", 
+    "title": "Our Best Bites"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c31"
+    }, 
+    "link": "http://thepioneerwoman.com/cooking/feed/", 
+    "title": "Cooking \u2013 The Pioneer Woman"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c32"
+    }, 
+    "link": "http://blog.foodnetwork.com/fn-dish/feed/", 
+    "title": "FN Dish \u2013 Food Network Blog"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c33"
+    }, 
+    "link": "http://feeds.seriouseats.com/seriouseatsfeaturesvideos", 
+    "title": "Serious Eats"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c34"
+    }, 
+    "link": "http://feeds.feedburner.com/BudgetBytes", 
+    "title": "Budget Bytes"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c35"
+    }, 
+    "link": "http://ohhappyday.com/feed/", 
+    "title": "Oh Happy Day!"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c36"
+    }, 
+    "link": "http://www.veronicabelmont.com/feed/", 
+    "title": "Veronica Belmont"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c37"
+    }, 
+    "link": "https://feeds.feedburner.com/trendir/", 
+    "title": "Trendir"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c38"
+    }, 
+    "link": "http://www.notcot.com/atom.xml", 
+    "title": "NOTCOT"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c39"
+    }, 
+    "link": "http://feeds.feedburner.com/yankodesign", 
+    "title": "Yanko Design"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c3a"
+    }, 
+    "link": "http://feeds.coolhunting.com/ch", 
+    "title": "Cool Hunting"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c3b"
+    }, 
+    "link": "http://feeds2.feedburner.com/Swissmiss", 
+    "title": "swissmiss"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c3c"
+    }, 
+    "link": "http://www.sfgirlbybay.com/feed/", 
+    "title": "sfgirlbybay"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c3d"
+    }, 
+    "link": "http://www.betterlivingthroughdesign.com/feed/", 
+    "title": "Better Living Through Design"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c3e"
+    }, 
+    "link": "http://feeds.feedburner.com/FreshInspirationForYourHome", 
+    "title": "Freshome.com - Interior Design & Architecture Magazine"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c40"
+    }, 
+    "link": "http://www.yatzer.com/rss.xml", 
+    "title": "Yatzer RSS Feed"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c41"
+    }, 
+    "link": "http://feeds.feedburner.com/colossal", 
+    "title": "Colossal"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c42"
+    }, 
+    "link": "http://feeds.feedburner.com/core77/blog", 
+    "title": "Core77"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c43"
+    }, 
+    "link": "http://www.fubiz.net/en/feed/", 
+    "title": "Fubiz Media"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c44"
+    }, 
+    "link": "http://feeds.feedburner.com/design-milk", 
+    "title": "Design Milk"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c45"
+    }, 
+    "link": "http://feeds.feedburner.com/designsponge/njjl", 
+    "title": "Design*Sponge"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c46"
+    }, 
+    "link": "http://feeds.apartmenttherapy.com/apartmenttherapy/main", 
+    "title": "Apartment Therapy | Saving the world, one room at a time"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c47"
+    }, 
+    "link": "http://feeds.feedburner.com/abduzeedo", 
+    "title": "Abduzeedo Design Inspiration"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d609d1c180811310e52c48"
+    }, 
+    "link": "http://feeds.feedburner.com/abduzeedo?format=xml", 
+    "title": "Abduzeedo Design Inspiration"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d6f078c180811d4f0e068f"
+    }, 
+    "link": "http://www.msnbc.com/feeds/latest", 
+    "title": "msnbc.com Latest Headlines"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d6f078c180811d4f0e0690"
+    }, 
+    "link": "http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", 
+    "title": "NYT > Politics"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d6f078c180811d4f0e0691"
+    }, 
+    "link": "http://www.politico.com/rss/politics.xml", 
+    "title": "Politics"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d6f078c180811d4f0e0692"
+    }, 
+    "link": "http://feeds.foxnews.com/foxnews/politics", 
+    "title": "FOX News"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d6f078c180811d4f0e0693"
+    }, 
+    "link": "http://rss.cnn.com/rss/cnn_allpolitics.rss", 
+    "title": "CNN.com - Politics"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56d6f078c180811d4f0e0694"
+    }, 
+    "link": "http://feeds.washingtonpost.com/rss/politics", 
+    "title": "Politics"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c962"
+    }, 
+    "link": "http://rss.time.com/web/time/rss/top/index.xml", 
+    "title": "TIME"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c963"
+    }, 
+    "link": "http://www.slate.com/rss", 
+    "title": "Slate Articles"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c964"
+    }, 
+    "link": "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml", 
+    "title": "The New York Times"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c966"
+    }, 
+    "link": "http://news.google.com/?output=rss", 
+    "title": "Top Stories - Google News"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c968"
+    }, 
+    "link": "http://rss.news.yahoo.com/rss/topstories", 
+    "title": "Yahoo News - Top Stories"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c969"
+    }, 
+    "link": "http://www.washingtonpost.com/rss/homepage", 
+    "title": "Washington Post: Breaking News, World, US, DC News & Analysis"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c96a"
+    }, 
+    "link": "http://www.guardian.co.uk/rssfeed/0,,1,00.xml", 
+    "title": "The Guardian"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c96d"
+    }, 
+    "link": "http://drudgereportfeed.com/rss.xml", 
+    "title": "Drudge Report Feed"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c972"
+    }, 
+    "link": "http://www.gothamist.com/index.rdf", 
+    "title": "Gothamist"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c974"
+    }, 
+    "link": "http://news.google.com/news?hl=en&gl=us&q=news&um=1&ie=UTF-8&output=rss", 
+    "title": "news - Google News"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c976"
+    }, 
+    "link": "http://www.marketwatch.com/rss/topstories", 
+    "title": "MarketWatch.com - Top Stories"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c978"
+    }, 
+    "link": "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml", 
+    "title": "BBC"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c979"
+    }, 
+    "link": "http://www.nytimes.com/services/xml/rss/nyt/World.xml", 
+    "title": "NYT > World"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c97d"
+    }, 
+    "link": "http://www.salon.com/feed/", 
+    "title": "Salon.com Salon"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c97e"
+    }, 
+    "link": "http://www.newyorker.com/services/rss/feeds/everything.xml", 
+    "title": "The New Yorker: Everything"
+  }, 
+  {
+    "category": "news", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c97f"
+    }, 
+    "link": "http://www.theguardian.com/world/usa/rss", 
+    "title": "US news | The Guardian"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c980"
+    }, 
+    "link": "http://www.adafruit.com/blog/feed/", 
+    "title": "adafruit industries blog"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c981"
+    }, 
+    "link": "http://blog.craftzine.com/index.xml", 
+    "title": "Craft"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c983"
+    }, 
+    "link": "http://apair-andaspare.blogspot.com/feeds/posts/default", 
+    "title": "a pair & a spare"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c984"
+    }, 
+    "link": "http://www.hackaday.com/rss.xml", 
+    "title": "Hack a Day"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c985"
+    }, 
+    "link": "http://www.instructables.com/tag/type:instructable/rss.xml", 
+    "title": "Instructables"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c987"
+    }, 
+    "link": "http://blog.makezine.com/index.xml", 
+    "title": "Make"
+  }, 
+  {
+    "category": "do it yourself", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c988"
+    }, 
+    "link": "https://www.etsy.com/storque/feeds/latest/", 
+    "title": "The Etsy Blog"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c989"
+    }, 
+    "link": "http://feeds.huffingtonpost.com/c/35496/f/677090/index.rss", 
+    "title": "Small Business - The Huffington Post"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c98b"
+    }, 
+    "link": "http://feeds.feedburner.com/StrategyBusiness-AllUpdates", 
+    "title": "strategy+business - All Updates"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c98c"
+    }, 
+    "link": "http://fortune.com/feed/", 
+    "title": "Fortune"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c98e"
+    }, 
+    "link": "http://www.economist.com/rss/the_world_this_week_rss.xml", 
+    "title": "The Economist: The world this week"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c98f"
+    }, 
+    "link": "http://www.thenonprofittimes.com/feed/", 
+    "title": "The NonProfit Times"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c990"
+    }, 
+    "link": "http://www.bloomberg.com/404.html", 
+    "title": "Businessweek.com -- Top News"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c991"
+    }, 
+    "link": "http://www.hotelbusiness.com/links/rss/hb_rss_01.php", 
+    "title": "Hotel Business Magazine Breaking News"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c993"
+    }, 
+    "link": "http://www.nytimes.com/services/xml/rss/nyt/Business.xml", 
+    "title": "NYT > Business Day"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c994"
+    }, 
+    "link": "http://freakonomics.blogs.nytimes.com/feed/", 
+    "title": "Freakonomics"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c995"
+    }, 
+    "link": "http://www.sbnonline.com/feed/", 
+    "title": "Smart Business Magazine"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c996"
+    }, 
+    "link": "http://www.businessoffashion.com/feed", 
+    "title": "BoF - The Business of Fashion"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c997"
+    }, 
+    "link": "http://www.newslookup.com/rss/business/bloomberg.rss", 
+    "title": "Bloomberg"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c998"
+    }, 
+    "link": "http://bigpicture.typepad.com/comments/atom.xml", 
+    "title": "The Big Picture"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c99a"
+    }, 
+    "link": "http://www.mckinsey.com/Insights/rss.aspx", 
+    "title": "McKinsey Insights & Publications"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c99b"
+    }, 
+    "link": "http://www.calculatedriskblog.com/feeds/posts/default", 
+    "title": "Calculated Risk"
+  }, 
+  {
+    "category": "business", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c99f"
+    }, 
+    "link": "http://homebusinessmag.com/feed/", 
+    "title": "Home Business Magazine"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9a1"
+    }, 
+    "link": "http://www.gamespot.com/rss/game_updates.php", 
+    "title": "Gamespot's Site Mashup"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9a9"
+    }, 
+    "link": "http://tagn.wordpress.com/feed/", 
+    "title": "The Ancient Gaming Noob"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9ab"
+    }, 
+    "link": "http://www.eurogamer.net/index.php?format=rss", 
+    "title": "Eurogamer.net"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9af"
+    }, 
+    "link": "http://www.indiegames.com/blog/atom.xml", 
+    "title": "IndieGames"
+  }, 
+  {
+    "category": "gaming", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9b0"
+    }, 
+    "link": "http://www.joystiq.com/rss.xml", 
+    "title": "Joystiq"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9b2"
+    }, 
+    "link": "http://glinden.blogspot.com/feeds/posts/default", 
+    "title": "Geeking with Greg"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9b6"
+    }, 
+    "link": "http://www.guardian.co.uk/news/datablog/rss", 
+    "title": "Datablog | The Guardian"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9b8"
+    }, 
+    "link": "http://blogs.wsj.com/numbers/feed/?mg=blogs-wsj&url=http%253A%252F%252Fblogs.wsj.com%252Fnumbersguy%252Ffeed", 
+    "title": "The Numbers"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9be"
+    }, 
+    "link": "http://www.stat.columbia.edu/~cook/movabletype/mlm/atom.xml", 
+    "title": "Statistical Modeling, Causal Inference, and Social Science"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9c0"
+    }, 
+    "link": "http://www.johndcook.com/blog/feed/", 
+    "title": "John D. Cook"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9c2"
+    }, 
+    "link": "https://datascience101.wordpress.com/feed/", 
+    "title": "Data Science 101"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9c3"
+    }, 
+    "link": "http://www.fivethirtyeight.com/feeds/posts/default", 
+    "title": "FiveThirtyEight"
+  }, 
+  {
+    "category": "data science", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9c4"
+    }, 
+    "link": "http://nuit-blanche.blogspot.com/feeds/posts/default", 
+    "title": "Nuit Blanche"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9c6"
+    }, 
+    "link": "http://www.bbc.co.uk/programmes/b006x3hl/episodes/downloads.rss", 
+    "title": "The Essay"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9c7"
+    }, 
+    "link": "http://jole.oxfordjournals.org/rss/recent.xml", 
+    "title": "Journal of Language Evolution - recent issues"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9c8"
+    }, 
+    "link": "http://tetw.tumblr.com/rss", 
+    "title": "The Electric Typewriter"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9c9"
+    }, 
+    "link": "http://www.abei.org.br/index.php/en/publications/abei-journal?format=feed&type=rss", 
+    "title": "ABEI Journal"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9ca"
+    }, 
+    "link": "http://jole.oxfordjournals.org/rss/current.xml", 
+    "title": "Journal of Language Evolution - current issue"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9cb"
+    }, 
+    "link": "https://longreads.com/rss/", 
+    "title": "Longreads.com"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9cd"
+    }, 
+    "link": "http://ajlh.oxfordjournals.org/rss/current.xml", 
+    "title": "American Journal of Legal History - current issue"
+  }, 
+  {
+    "category": "essays", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9ce"
+    }, 
+    "link": "http://ajlh.oxfordjournals.org/rss/recent.xml", 
+    "title": "American Journal of Legal History - recent issues"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9d0"
+    }, 
+    "link": "http://motherjones.com/mojo/feed", 
+    "title": "Political Mojo | Mother Jones"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9d2"
+    }, 
+    "link": "http://blog.heritage.org/feed/", 
+    "title": "The Foundry"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9dc"
+    }, 
+    "link": "http://googleblog.blogspot.com/atom.xml", 
+    "title": "Official Google Blog"
+  }, 
+  {
+    "category": "tech", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9e3"
+    }, 
+    "link": "http://www.readwriteweb.com/rss.xml", 
+    "title": "ReadWrite"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9e5"
+    }, 
+    "link": "http://www.deadline.com/feed/", 
+    "title": "Deadline"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9e6"
+    }, 
+    "link": "http://www.imagechaser.com/category/cinemafeed/", 
+    "title": "Nikon Cinema"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9e9"
+    }, 
+    "link": "http://blog.moviefone.com/rss.xml", 
+    "title": "Moviefone News"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9eb"
+    }, 
+    "link": "http://www.empireonline.com/rss/rss.asp", 
+    "title": "Empire News"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9ed"
+    }, 
+    "link": "http://www.indiewire.com/index.xml", 
+    "title": "News"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9f0"
+    }, 
+    "link": "https://eastgermancinema.com/feed/", 
+    "title": "East German Cinema Blog"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9f1"
+    }, 
+    "link": "http://feeds.feedburner.com/cineblog01/Film-In-Streaming-Gratis", 
+    "title": "CB01.CO | FILM GRATIS HD STREAMING E DOWNLOAD ALTA DEFINIZIONE"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9f2"
+    }, 
+    "link": "http://www.davidbordwell.net/blog/feed/atom/", 
+    "title": "Observations on film art"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9f3"
+    }, 
+    "link": "https://blog.cinemaautopsy.com/feed/", 
+    "title": "Cinema Autopsy"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9f4"
+    }, 
+    "link": "http://theasiancinemablog.com/feed/", 
+    "title": "The Asian Cinema Blog"
+  }, 
+  {
+    "category": "cinema", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9f5"
+    }, 
+    "link": "http://mubi.com/notebook/posts.atom", 
+    "title": "The Daily Notebook"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9f8"
+    }, 
+    "link": "https://janefriedman.com/feed/", 
+    "title": "Jane Friedman"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9f9"
+    }, 
+    "link": "http://prettybooks.tumblr.com/rss", 
+    "title": "prettybooks"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9fa"
+    }, 
+    "link": "http://feeds.feedburner.com/BookingMama", 
+    "title": "Booking Mama"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9fc"
+    }, 
+    "link": "http://www.abebooks.com/blog/index.php/feed/", 
+    "title": "AbeBooks' Reading Copy"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9fd"
+    }, 
+    "link": "http://www.theindieview.com/feed/", 
+    "title": "The IndieView"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9fe"
+    }, 
+    "link": "http://feeds.feedburner.com/BooksOnTheNightstand", 
+    "title": "Books on the Nightstand"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3c9ff"
+    }, 
+    "link": "https://www.mediabistro.com/galleycat/rss", 
+    "title": "GalleyCat | RSS Feed"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca00"
+    }, 
+    "link": "http://feeds.feedburner.com/AtLastWriterBewareBlogsAcCrispinAndVictoriaStraussRevealAll", 
+    "title": "Writer Beware\u00ae: The  Blog"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca01"
+    }, 
+    "link": "http://livingawritinglife.blogspot.com/feeds/posts/default", 
+    "title": "My Life in Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca03"
+    }, 
+    "link": "http://www.latimes.com/books/jacketcopy/rss2.0.xml", 
+    "title": "Jacket Copy - Los Angeles Times"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca04"
+    }, 
+    "link": "http://www.helpingwritersbecomeauthors.com/feed/", 
+    "title": "Helping Writers Become Authors"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca05"
+    }, 
+    "link": "http://feeds.feedburner.com/SKrishnasBooks", 
+    "title": "S. Krishna's Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca06"
+    }, 
+    "link": "https://savidgereads.wordpress.com/feed/", 
+    "title": "Savidge Reads"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca07"
+    }, 
+    "link": "http://www.quillandquire.com/feed/", 
+    "title": "Quill and Quire"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca08"
+    }, 
+    "link": "http://feeds.feedburner.com/Smashwords", 
+    "title": "Smashwords"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca09"
+    }, 
+    "link": "https://101books.net/feed/", 
+    "title": "101 Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca0a"
+    }, 
+    "link": "http://feeds.feedblitz.com/BooksOnTheKnob", 
+    "title": "Books on The Knob RSS Feed"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca0b"
+    }, 
+    "link": "http://deliberatereader.com/feed/", 
+    "title": "The Deliberate Reader"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca0c"
+    }, 
+    "link": "http://feeds.feedburner.com/DovegreyreaderScribbles", 
+    "title": "dovegreyreader scribbles"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca0d"
+    }, 
+    "link": "http://feeds.feedburner.com/TheBookSmugglers", 
+    "title": "The Book Smugglers"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca0e"
+    }, 
+    "link": "http://feeds.feedblitz.com/thatswhatsheread", 
+    "title": "That's What She Read"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca0f"
+    }, 
+    "link": "http://feeds.feedburner.com/FarmLaneBooksBlog", 
+    "title": "Farm Lane Books Blog"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca10"
+    }, 
+    "link": "http://feeds.feedburner.com/TheAverageJoe", 
+    "title": "Joe Wikert's Digital Content Strategies"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca11"
+    }, 
+    "link": "https://taralazar.com/feed/", 
+    "title": "Writing for Kids (While Raising Them)"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca12"
+    }, 
+    "link": "http://feeds.feedburner.com/MarinBookworks", 
+    "title": "The Book Designer"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca13"
+    }, 
+    "link": "https://lareviewofbooks.org/rss", 
+    "title": "Los Angeles Review of Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca14"
+    }, 
+    "link": "http://www.hbook.com/feed/", 
+    "title": "The Horn Book"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca15"
+    }, 
+    "link": "http://www.bookslut.com/blog/index.rdf", 
+    "title": "Blog of a Bookslut"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca16"
+    }, 
+    "link": "http://www.nytimes.com/services/xml/rss/nyt/Books.xml", 
+    "title": "NYT > Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca17"
+    }, 
+    "link": "http://www.lrb.co.uk/homerss.xml", 
+    "title": "London Review of Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca18"
+    }, 
+    "link": "http://www.vintagenovels.com/feeds/posts/default", 
+    "title": "Vintage Novels"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca19"
+    }, 
+    "link": "http://literatehousewife.com/feed/", 
+    "title": "literatehousewife.com"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca1a"
+    }, 
+    "link": "http://robaroundbooks.com/feed/", 
+    "title": "RobAroundBooks"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca1c"
+    }, 
+    "link": "https://arablit.org/feed/", 
+    "title": "Arabic Literature (in English)"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca1d"
+    }, 
+    "link": "http://50watts.com/feed-rss.php?url=50watts", 
+    "title": "50 Watts"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca1e"
+    }, 
+    "link": "http://www.readrunbreathe.com/feed/", 
+    "title": "Read. Run. Breathe."
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca1f"
+    }, 
+    "link": "http://www.bookishhabits.org/feeds/posts/default", 
+    "title": "Bookish Habits"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca21"
+    }, 
+    "link": "https://vulpeslibris.wordpress.com/feed/", 
+    "title": "Vulpes Libris"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca22"
+    }, 
+    "link": "https://theasylum.wordpress.com/feed/", 
+    "title": "Asylum"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca24"
+    }, 
+    "link": "http://feeds.feedburner.com/KatiesBookBlog", 
+    "title": "Katie's Book Blog"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca25"
+    }, 
+    "link": "http://feeds.feedburner.com/readersread", 
+    "title": "Readers Read Book Blog"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca26"
+    }, 
+    "link": "http://granta.com/Online-Only/rss.xml", 
+    "title": "Granta Magazine"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca27"
+    }, 
+    "link": "http://feeds.feedburner.com/5MinutesForBooks", 
+    "title": "5 Minutes For Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca28"
+    }, 
+    "link": "https://blog.firstbook.org/feed/", 
+    "title": "First Book Blog"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca29"
+    }, 
+    "link": "http://angieville.blogspot.com/feeds/posts/default", 
+    "title": "Angieville"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca2a"
+    }, 
+    "link": "http://smartbitchestrashybooks.com/feed/", 
+    "title": "Smart Bitches, Trashy BooksSmart Bitches, Trashy Books"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca2e"
+    }, 
+    "link": "http://www.nataliasylvester.com/feed/", 
+    "title": "Natalia Sylvester |"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca2f"
+    }, 
+    "link": "http://bookaliciousbabe.blogspot.com/feeds/posts/default", 
+    "title": "Bookalicious Babe Book Reviews"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca30"
+    }, 
+    "link": "http://bfishreads.blogspot.com/feeds/posts/default", 
+    "title": "Beth Fish Reads"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca31"
+    }, 
+    "link": "http://www.thebookwheelblog.com/feed/", 
+    "title": "The Book Wheel"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca32"
+    }, 
+    "link": "http://feeds.feedburner.com/oupblog", 
+    "title": "OUPblog"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca33"
+    }, 
+    "link": "http://feeds.feedburner.com/CandacesBookBlog", 
+    "title": "Candace's Book Blog"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca34"
+    }, 
+    "link": "http://newpaperadventures.blogspot.com/feeds/posts/default", 
+    "title": "Paper Safari"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca35"
+    }, 
+    "link": "http://feeds2.feedburner.com/BartsBookshelf", 
+    "title": "Bart's Bookshelf"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca36"
+    }, 
+    "link": "http://feeds.feedburner.com/BookBriefs", 
+    "title": "Book Briefs"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca37"
+    }, 
+    "link": "http://bookblogging.net/feed/", 
+    "title": "Book Blogging"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca38"
+    }, 
+    "link": "http://feeds.feedburner.com/PauloCoelhosBlog", 
+    "title": "Paulo Coelho"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca39"
+    }, 
+    "link": "http://www.bookroomreviews.com/feed/", 
+    "title": "Book Room Reviews"
+  }, 
+  {
+    "category": "books", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca3a"
+    }, 
+    "link": "https://onetinyreader.wordpress.com/feed/", 
+    "title": "Tiny Reads"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca3b"
+    }, 
+    "link": "http://newsrss.bbc.co.uk/rss/sportonline_world_edition/front_page/rss.xml", 
+    "title": "BBC Sport - Sport"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca3c"
+    }, 
+    "link": "http://www.westhesportsguy.com/feeds/posts/default", 
+    "title": "WESTHESPORTSGUY.COM"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca3e"
+    }, 
+    "link": "http://sports.espn.go.com/espn/rss/news", 
+    "title": "ESPN.com"
+  }, 
+  {
+    "category": "sports", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca42"
+    }, 
+    "link": "http://rss.news.yahoo.com/rss/sports", 
+    "title": "Yahoo! Sports"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca48"
+    }, 
+    "link": "http://www.acouplecooks.com/feed/", 
+    "title": "A Couple Cooks"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca4b"
+    }, 
+    "link": "http://www.davidlebovitz.com/archives/index.rdf", 
+    "title": "David Lebovitz"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca4d"
+    }, 
+    "link": "http://bittersweetblog.wordpress.com/feed/", 
+    "title": "BitterSweet"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca4f"
+    }, 
+    "link": "http://mynewroots.blogspot.com/feeds/posts/default", 
+    "title": "My New Roots"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca51"
+    }, 
+    "link": "http://www.loveandlemons.com/feed/", 
+    "title": "Love and Lemons"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca52"
+    }, 
+    "link": "http://www.joythebaker.com/blog/feed/", 
+    "title": "Joy the Baker"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca53"
+    }, 
+    "link": "http://chocolateandzucchini.com/index.rdf", 
+    "title": "Chocolate & Zucchini"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca59"
+    }, 
+    "link": "http://www.skinnytaste.com/feed/", 
+    "title": "Skinnytaste"
+  }, 
+  {
+    "category": "cooking", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca62"
+    }, 
+    "link": "http://budgetbytes.blogspot.com/feeds/posts/default", 
+    "title": "Budget Bytes"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca67"
+    }, 
+    "link": "http://www.yankodesign.com/feed/", 
+    "title": "Yanko Design"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca68"
+    }, 
+    "link": "http://www.coolhunting.com/atom.xml", 
+    "title": "Cool Hunting"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca69"
+    }, 
+    "link": "http://www.swiss-miss.com/feed", 
+    "title": "swissmiss"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca6b"
+    }, 
+    "link": "http://www.betterlivingthroughdesign.com/atom.xml", 
+    "title": "Better Living Through Design"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca6e"
+    }, 
+    "link": "http://www.yatzer.com/feed/index.php", 
+    "title": "Yatzer"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca73"
+    }, 
+    "link": "http://www.designsponge.com/feed/", 
+    "title": "Design*Sponge"
+  }, 
+  {
+    "category": "design", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e71c0bc180817118d3ca74"
+    }, 
+    "link": "http://www.apartmenttherapy.com/main/atom.xml", 
+    "title": "Apartment Therapy | Saving the world, one room at a time"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e81c27c1808102042b0b3a"
+    }, 
+    "link": "http://feeds.reuters.com/Reuters/PoliticsNews", 
+    "title": "Reuters: Politics"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e81c27c1808102042b0b3d"
+    }, 
+    "link": "http://www.economist.com/blogs/democracyinamerica/atom.xml", 
+    "title": "Democracy in America"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e81c27c1808102042b0b40"
+    }, 
+    "link": "http://rssfeeds.usatoday.com/TP-OnPolitics", 
+    "title": "USATODAY - On Politics"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e81c27c1808102042b0b41"
+    }, 
+    "link": "http://www.washingtonexaminer.com/rss/politics", 
+    "title": "WashingtonExaminer.com RSS"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e81c27c1808102042b0b42"
+    }, 
+    "link": "http://hosted.ap.org/lineups/POLITICSHEADS-rss_2.0.xml?SITE=FLMYR&SECTION=HOME", 
+    "title": "AP Top Political News at 7:49 a.m. EDT"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e81c27c1808102042b0b44"
+    }, 
+    "link": "http://online.wsj.com/xml/rss/3_7087.xml", 
+    "title": "WSJ.com: Politics And Policy"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e81c27c1808102042b0b45"
+    }, 
+    "link": "http://www.thenation.com/feed/?post_type=article", 
+    "title": "The Nation \u00bb Article"
+  }, 
+  {
+    "category": "Politics", 
+    "active": true, 
+    "_id": {
+      "$oid": "56e81c27c1808102042b0b47"
+    }, 
+    "link": "http://www.pbs.org/newshour/", 
+    "title": "PBS NewsHour \u00bb Topics \u00bb Politics"
+  }
+]
